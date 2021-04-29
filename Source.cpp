@@ -40,4 +40,5 @@ void ChayChuongTrinh()
 		system("PAUSE");
 	} while (sel > 0);
 	///chan chó qua 
+	//pri
 }
